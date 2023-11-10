@@ -1,0 +1,38 @@
+body {
+    background-color: rgb(243, 203, 249);
+    margin: 50px;
+    font-family: Times New Roman;
+  }
+  
+  .stopwatch {
+    text-align: center;
+    margin-top: 50px;
+  }
+  h1 {
+    color: #d40bf3;
+  }
+  .display {
+    font-size: 36px;
+    color: magenta;
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+  
+  button {
+    margin: 5px;
+    padding: 10px 20px;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    background-color: #d94fee;
+    color: white;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #e907c7;
+  }
+  
+  button:active {
+    background-color: #e80cbf;
+  }
